@@ -8,7 +8,6 @@ module.exports = defineConfig({
     viewportHeight: 1080,
     viewportWidth: 1920,
     blockHosts: ["*mc.yandex.ru"],
-    baseUrl:"https://login.qa.studio"
   },
 });
 
